@@ -1,0 +1,15 @@
+obj
+bin
+*.csproj.user
+_ReSharper.*
+*.[Rr]e[Ss]harper.user
+src/FubuMVC.*.ReSharper
+*.DotSettings.user
+*.suo
+*.cache
+~$*
+*.userprefs
+*.pidb
+*.DS_Store
+*.swp
+*.dotCover
